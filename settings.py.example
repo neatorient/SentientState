@@ -1,0 +1,4 @@
+USER_AGENT = "example"
+TARGET_SUBREDDIT = "example"
+USERNAME = "example"
+PASSWORD = "example"
